@@ -147,6 +147,8 @@ vendor.vidc.enc.disable.pq=true
 
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
+ro.vendor.perf.scroll_opt=true
+ro.vendor.perf.scroll_opt.heavy_app=true
 
 # Radio
 persist.radio.multisim.config=dsds
