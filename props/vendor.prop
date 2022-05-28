@@ -177,6 +177,9 @@ ro.vendor.sensors.mot_detect=true
 ro.soc.manufacturer=QTI
 ro.soc.model=SDM660
 
+# ScalarConfig
+vendor.display.disable_scaler=1
+
 # Skia
 renderthread.skia.reduceopstasksplitting=true
 
