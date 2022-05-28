@@ -178,5 +178,8 @@ ro.soc.model=SDM660
 # Skia
 renderthread.skia.reduceopstasksplitting=true
 
+# System
+persist.sys.binary_xml=false
+
 # Time
 persist.vendor.delta_time.enable=true
