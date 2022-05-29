@@ -279,6 +279,10 @@
          that can be set by the user. -->
     <item name="config_screenBrightnessDimFloat" format="float" type="dimen">0.05</item>
 
+	<!-- Enable doze alwaysOn Display -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+
+
     <!-- Default screen brightness setting.
          Must be in the range specified by minimum and maximum. -->
     <item name="config_screenBrightnessSettingDefaultFloat" format="float" type="dimen">0.8</item>
