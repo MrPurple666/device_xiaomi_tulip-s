@@ -1,1 +1,5 @@
 hal_client_domain(system_app, hal_mlipay)
+
+# Battery health
+allow system_app sysfs_battery_supply:dir search;
+allow system_app sysfs_battery_supply:file { read open getattr }; 
